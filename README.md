@@ -28,6 +28,7 @@
 - 🌱 I’m a MERN Stack developer and an ML developer in making.
 - 💞️ I’m looking to collaborate on all projects that intrigue me.
 - 💯 I use github to host anything that I believe could be worth sharing with the world.
+- 🕸️ Portfolio: https://vocarista.com
 - 📫 How to reach me: vocarista@gmail.com
 <!--Intro end-->
 
