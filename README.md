@@ -17,8 +17,8 @@
 
 <!--Intro start-->
 - 👋 Hi, I’m @vocarista
-- 👀 I’m interested in Web developmemt, Cloud Computing and applications of AI and ML in Blockchain Applications.
-- 🌱 I’m a MERN Stack developer and an ML developer in making.
+- 👀 I’m interested in developing for the cloud and applications of AI and ML in Finance.
+- 🌱 I’m a Full Stack Developer, ML Engineer and a Cloud Architect in the making.
 - 💞️ I’m looking to collaborate on all projects that intrigue me.
 - 💯 I use github to host anything that I believe could be worth sharing with the world.
 - 🕸️ Portfolio: https://vocarista.com
